@@ -19,11 +19,14 @@
   },
   "plugins": {
     "@release-it/bumper": {
-      "in": "package.json",
-      "out": "src/test/package.json"
+      "in": "version.json",
+      "out": ["package.json", "src/test/package.json"]
     },
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOGAUTO.md",
+      "parserOpts": {
+        "mergePattern": "^Merge pull request #(\\d+) from (.*)$"
+      },
       "preset": {
         "name": "conventionalcommits",
         "types": [
