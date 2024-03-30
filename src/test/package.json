@@ -1,6 +1,6 @@
 {
   "name": "release-it-test-z",
-  "version": "3.6.0-alpha.1",
+  "version": "3.6.0",
   "description": "test",
   "main": "index.js",
   "private": false,

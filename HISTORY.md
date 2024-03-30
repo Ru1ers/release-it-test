@@ -7,6 +7,7 @@ undefined
 
 - feat: 🚀 update changelog-data.json with new release and documentation entries by [@ztc](1608864756@qq.com) in [#425c746](https://github.com/Ru1ers/release-it-test/commit/425c746b7f9dae46c0a861dd1d6fb95c2753b1e4)
 - feat: 🚀 update release-it.json with new auto-changelog commands by [@ztc](1608864756@qq.com) in [#f1b10bc](https://github.com/Ru1ers/release-it-test/commit/f1b10bcb41fc4480e2649ac7352f4f95c6ce6918)
+- feat: 🚀 update version to 3.6.0-alpha.1 in CHANGELOG and package.json files by [@ztc](1608864756@qq.com) in [#20ec24b](https://github.com/Ru1ers/release-it-test/commit/20ec24bb8fb0089da54922bd09affed150f1bf06)
 - feat: 🚀 update version to 3.5.0 and add new features, documentation, and CI configurations by [@ztc](1608864756@qq.com) in [#da95ada](https://github.com/Ru1ers/release-it-test/commit/da95ada6f551871fd9db0bbcab80fd462979f97e)
 undefined
 
