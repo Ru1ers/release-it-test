@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "release": "release-it",
-    "release-pre": "release-it --release-version",
+    "release-pre": "release-it --dry-run",
     "release-beta": "release-it --preRelease=beta",
     "release-alpha": "release-it --preRelease=alpha",
     "auto-changelog": "auto-changelog",
