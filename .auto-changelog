@@ -1,0 +1,6 @@
+{
+  "output": "HISTORY.md",
+  "template": "./templates/changelog-compact.hbs",
+  "unreleased": true,
+  "commitLimit": false
+}
