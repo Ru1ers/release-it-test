@@ -2,7 +2,6 @@
   "name": "release-it-test-z",
   "version": "3.0.1",
   "description": "",
-  "main": "/src/test/test.js",
   "scripts": {
     "release": "release-it",
     "release-beta": "release-it --preRelease=beta",
@@ -14,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@commitlint/config-conventional": "^19.1.0",
+    "@release-it/bumper": "^6.0.1",
     "@release-it/conventional-changelog": "^8.0.1",
     "@release-it/keep-a-changelog": "^5.0.0",
     "commitizen": "^4.3.0",
