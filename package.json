@@ -1,5 +1,5 @@
 {
-  "name": "release-it-test",
+  "name": "release-it-test-z",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "private": false,
   "author": "",
   "license": "ISC",
   "devDependencies": {
