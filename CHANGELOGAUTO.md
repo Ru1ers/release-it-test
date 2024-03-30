@@ -1,5 +1,19 @@
 
 
+## [3.6.3](https://github.com/Ru1ers/release-it-test/compare/3.6.2...3.6.3) (2024-03-30)
+
+
+### Bug Fixes
+
+* 🧩 update version.json to 3.6.2-beta.0 ([b3ef208](https://github.com/Ru1ers/release-it-test/commit/b3ef208a6146c79ea59c69b14a7306a55153f3b4))
+* 🧩 update version.json to 3.6.3-beta.0 ([0909b9f](https://github.com/Ru1ers/release-it-test/commit/0909b9f073f1d0f3b9d9d3f6118e9a391d3c3c8a))
+
+
+### Build System
+
+* 🔨 update changelog data with new release and documentation entries ([2e87faa](https://github.com/Ru1ers/release-it-test/commit/2e87faaaf8f2f07759cec1dcd48a164897640aed))
+* 🔨 update release-it.json to include releaseName field for build version ([4bba1bf](https://github.com/Ru1ers/release-it-test/commit/4bba1bf07ff76ea251c306c3b2b2b2c240556305))
+
 ## [3.6.2](https://github.com/Ru1ers/release-it-test/compare/3.6.1...3.6.2) (2024-03-30)
 
 
