@@ -6,7 +6,7 @@
     "publishPath": "./src/test"
   },
   "git": {
-    "changelog": "npx auto-changelog --stdout --commit-limit false -u --template https://raw.githubusercontent.com/release-it/release-it/main/templates/changelog-compact.hbs"
+    "changelog": "npx auto-changelog --template json --output changelog-data.json"
   },
   "hooks": {
     "after:bump": "npx auto-changelog -p"
