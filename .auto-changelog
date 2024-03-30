@@ -1,6 +1,6 @@
 {
   "output": "HISTORY.md",
-  "template": "./templates/changelog-compact.hbs",
+  "template": "./templates/test.hbs",
   "unreleased": true,
   "commitLimit": false
 }
