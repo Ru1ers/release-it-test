@@ -6,10 +6,10 @@
     "publishPath": "./src/test"
   },
   "git": {
-    "changelog": "npx auto-changelog --template json --output changelog-data.json"
+    "changelog": "npx auto-changelog --stdout --commit-limit false --unreleased --template ./templates/test.hbs"
   },
   "hooks": {
-    "after:bump": "npx auto-changelog -p"
+    "after:bump": "npx auto-changelog --commit-limit false --template ./templates/test.hbs"
   },
   "plugins": {
     "@release-it/bumper": {
