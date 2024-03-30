@@ -1,5 +1,7 @@
 
 
+## [3.6.1](https://github.com/Ru1ers/release-it-test/compare/3.6.0...3.6.1) (2024-03-30)
+
 ## [3.6.0](https://github.com/Ru1ers/release-it-test/compare/3.4.0...3.6.0) (2024-03-30)
 
 
