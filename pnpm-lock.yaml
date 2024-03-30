@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  release-it-test-z:
+    specifier: 2.0.0-alpha.0
+    version: 2.0.0-alpha.0
+
 devDependencies:
   release-it:
     specifier: ^17.1.1
@@ -2134,6 +2139,10 @@ packages:
     dependencies:
       rc: 1.2.8
     dev: true
+
+  /release-it-test-z@2.0.0-alpha.0:
+    resolution: {integrity: sha512-lSIHxq6luX1dtHCUA15suSF9Aa1Cu2eNMN4Ct7QgkWTwNjWmIr4PoviJR4ZY9IzTnXXRevgSYO1LWeyiQ6Zi/A==}
+    dev: false
 
   /release-it@17.1.1:
     resolution: {integrity: sha512-b+4Tu2eb5f2wIdIe5E9hre0evbMQrXp/kRq0natHsHYJVqu1Bd4/h2a+swFi0faGmC3cJdB16uYR6LscG9SchQ==}
