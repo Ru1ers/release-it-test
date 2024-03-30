@@ -2,37 +2,13 @@
 
 `{{isoDate}}`
 
-{{#commit-list commits heading='#### 新功能 🎉' message='feat: '}}
-- {{subject}} [`{{shorthash}}`]({{href}})
-- {{subject}} by [@{{author}}]({{用户GitHub地址}}) in [#{{提交标记}}]({{pull链接}})
+#### 新功能 🎉
+
+{{#commit-list commits message='feat: '}}
+- {{subject}} by [@{{author}}]({{email}}) in [#{{shorthash}}]({{href}})
+{{/commit-list}}
+{{#commit-list merges message='feat: '}}
+- {{message}} by [@{{commit.author}}]({{commit.subject}}) in [#{{id}}]({{href}})
 {{/commit-list}}
 
-- feat({{组件名称}}): {{内容}} by [@{{用户名}}]({{用户GitHub地址}}) in [#{{提交标记}}]({{pull链接}})
-
-#### Bug 修复 🐞
-
-- fix({{组件名称}}): {{内容}} by [@TPORL](https://github.com/TPORL) in [#12624](https://github.com/youzan/vant/pull/12624)
-
-#### 文档更新 📖
-
-- docs({{组件名称}}): {{内容}} by [@wjw-gavin](https://github.com/wjw-gavin) in
-[#12620](https://github.com/youzan/vant/pull/12620)
-
-#### 其他更改
-
-- {{更改类型}}({{组件名称}}): {{内容}} by [@wjw-gavin](https://github.com/wjw-gavin) in
-[#12620](https://github.com/youzan/vant/pull/12620)
-
-#### 新贡献者
-
-- [@TPORL](https://github.com/TPORL) 在 [#12624](https://github.com/youzan/vant/pull/12624) 中首次贡献
-{{#each merges}}
-- {{{message}}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}
-{{/each}}
-{{#each fixes}}
-- {{{commit.subject}}}{{#each fixes}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}{{/each}}
-{{/each}}
-{{#each commits}}
-- {{#if breaking}}**Breaking change:** {{/if}}{{{subject}}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}}
-{{/each}}
 {{/each}}

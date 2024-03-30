@@ -8,9 +8,26 @@
     "minor": false,
     "tag": null,
     "title": "Unreleased",
-    "date": "2024-03-30T11:00:56.208Z",
+    "date": "2024-03-30T11:18:18.953Z",
     "summary": null,
     "commits": [
+      {
+        "hash": "425c746b7f9dae46c0a861dd1d6fb95c2753b1e4",
+        "shorthash": "425c746",
+        "author": "ztc",
+        "email": "1608864756@qq.com",
+        "date": "2024-03-30T11:18:01.000Z",
+        "niceDate": "30 March 2024",
+        "subject": "feat: 🚀 update changelog-data.json with new release and documentation entries",
+        "message": "feat: 🚀 update changelog-data.json with new release and documentation entries",
+        "fixes": null,
+        "href": "https://github.com/Ru1ers/release-it-test/commit/425c746b7f9dae46c0a861dd1d6fb95c2753b1e4",
+        "breaking": false,
+        "files": 1,
+        "insertions": 784,
+        "deletions": 0,
+        "merge": null
+      },
       {
         "hash": "f1b10bcb41fc4480e2649ac7352f4f95c6ce6918",
         "shorthash": "f1b10bc",
@@ -47,6 +64,25 @@
       }
     ],
     "merges": [
+      {
+        "id": "2",
+        "message": "Update test.js",
+        "href": "https://github.com/Ru1ers/release-it-test/pull/2",
+        "author": "你听风在吹",
+        "commit": {
+          "hash": "53dbc9f5596d08b13214f4f741fb0cb3b33ae825",
+          "shorthash": "53dbc9f",
+          "author": "你听风在吹",
+          "email": "32606572+Ru1ers@users.noreply.github.com",
+          "date": "2024-03-30T11:17:24.000Z",
+          "niceDate": "30 March 2024",
+          "subject": "Merge pull request #2 from jukensing/master",
+          "message": "Merge pull request #2 from jukensing/master\n\nUpdate test.js",
+          "fixes": null,
+          "href": "https://github.com/Ru1ers/release-it-test/commit/53dbc9f5596d08b13214f4f741fb0cb3b33ae825",
+          "breaking": false
+        }
+      },
       {
         "id": "1",
         "message": "feat: 🚀 add test1 variable in test.js file",
