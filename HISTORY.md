@@ -9,6 +9,12 @@
 
 #### 新功能 🎉
 
+
+
+`2024-03-30`
+
+#### 新功能 🎉
+
 undefined
 
 - feat: 🚀 update changelog-data.json with new release and documentation entries by [@ztc](1608864756@qq.com) in [#425c746](https://github.com/Ru1ers/release-it-test/commit/425c746b7f9dae46c0a861dd1d6fb95c2753b1e4)

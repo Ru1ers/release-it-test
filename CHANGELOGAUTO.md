@@ -1,5 +1,22 @@
 
 
+## [3.6.2](https://github.com/Ru1ers/release-it-test/compare/3.6.1...3.6.2) (2024-03-30)
+
+
+### Bug Fixes
+
+* 🧩 update release-pre script to run release-it with --dry-run option ([3279f82](https://github.com/Ru1ers/release-it-test/commit/3279f82333708e7a91a7aae349672edf07147fba))
+
+
+### Documentation
+
+* 📚 update version.json as input for @release-it/bumper plugin. Add mergePattern to @release-it/conventional-changelog plugin ([9a6335d](https://github.com/Ru1ers/release-it-test/commit/9a6335d0bfbc980d7eea2006fd5c4667a97aefbc))
+
+
+### Styles
+
+* 🎨 update changelog data with new release and documentation entries ([1bd8113](https://github.com/Ru1ers/release-it-test/commit/1bd811302aa9147b6f085031d94995aff2c7c0e8))
+
 ## [3.6.1](https://github.com/Ru1ers/release-it-test/compare/3.6.0...3.6.1) (2024-03-30)
 
 ## [3.6.0](https://github.com/Ru1ers/release-it-test/compare/3.4.0...3.6.0) (2024-03-30)
