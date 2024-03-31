@@ -17,10 +17,6 @@
     "after:bump": "npx auto-changelog -p"
   },
   "plugins": {
-    "@release-it/bumper": {
-      "in": "src/test/package.json",
-      "out": ["src/test/package.json"]
-    },
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOGAUTO.md",
       "parserOpts": {
