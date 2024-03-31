@@ -1,5 +1,13 @@
 
 
+## [3.8.0](https://github.com/Ru1ers/release-it-test/compare/3.7.0...3.8.0) (2024-03-31)
+
+
+### Features
+
+* 🚀 update npm versionArgs and bumper paths in .release-it.json ([278ce4a](https://github.com/Ru1ers/release-it-test/commit/278ce4acbc19d58bc2f9db9cdde801c2fd7e4931))
+* 🚀 update release-it.json and package.json configurations ([cf4f3bb](https://github.com/Ru1ers/release-it-test/commit/cf4f3bb3fb5f17a61d68a945acb71852add55610))
+
 ## [3.7.0](https://github.com/Ru1ers/release-it-test/compare/3.6.3...3.7.0) (2024-03-31)
 
 

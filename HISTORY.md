@@ -5,6 +5,16 @@
 
 undefined
 
+- feat: 🚀 update npm versionArgs and bumper paths in .release-it.json by [@ztc](1608864756@qq.com) in [#278ce4a](https://github.com/Ru1ers/release-it-test/commit/278ce4acbc19d58bc2f9db9cdde801c2fd7e4931)
+- feat: 🚀 update release-it.json and package.json configurations by [@ztc](1608864756@qq.com) in [#cf4f3bb](https://github.com/Ru1ers/release-it-test/commit/cf4f3bb3fb5f17a61d68a945acb71852add55610)
+
+
+`2024-03-31`
+
+#### 新功能 🎉
+
+undefined
+
 - feat: 🚀 update release-it.json and package.json with correct release name and project name by [@ztc](1608864756@qq.com) in [#4b9b132](https://github.com/Ru1ers/release-it-test/commit/4b9b1325ad4883db390299759628043a41bcc7b5)
 - feat: 🚀 add skipChecks flag and update main file path in release-it config by [@ztc](1608864756@qq.com) in [#f4a4dc5](https://github.com/Ru1ers/release-it-test/commit/f4a4dc5089088436cf326a15170542db081ba43f)
 
