@@ -1,6 +1,6 @@
 {
   "name": "release-it-test",
-  "version": "3.6.3",
+  "version": "3.7.0",
   "description": "",
   "main": "src/test.js",
   "scripts": {

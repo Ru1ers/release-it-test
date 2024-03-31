@@ -1,5 +1,13 @@
 
 
+## [3.7.0](https://github.com/Ru1ers/release-it-test/compare/3.6.3...3.7.0) (2024-03-31)
+
+
+### Features
+
+* 🚀 add skipChecks flag and update main file path in release-it config ([f4a4dc5](https://github.com/Ru1ers/release-it-test/commit/f4a4dc5089088436cf326a15170542db081ba43f))
+* 🚀 update release-it.json and package.json with correct release name and project name ([4b9b132](https://github.com/Ru1ers/release-it-test/commit/4b9b1325ad4883db390299759628043a41bcc7b5))
+
 ## [3.6.3](https://github.com/Ru1ers/release-it-test/compare/3.6.2...3.6.3) (2024-03-30)
 
 

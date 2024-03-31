@@ -1,5 +1,15 @@
 
-`2024-03-30`
+`2024-03-31`
+
+#### 新功能 🎉
+
+undefined
+
+- feat: 🚀 update release-it.json and package.json with correct release name and project name by [@ztc](1608864756@qq.com) in [#4b9b132](https://github.com/Ru1ers/release-it-test/commit/4b9b1325ad4883db390299759628043a41bcc7b5)
+- feat: 🚀 add skipChecks flag and update main file path in release-it config by [@ztc](1608864756@qq.com) in [#f4a4dc5](https://github.com/Ru1ers/release-it-test/commit/f4a4dc5089088436cf326a15170542db081ba43f)
+
+
+`2024-03-31`
 
 #### 新功能 🎉
 
