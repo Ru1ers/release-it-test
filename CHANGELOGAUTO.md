@@ -1,5 +1,12 @@
 
 
+## [3.9.0](https://github.com/Ru1ers/release-it-test/compare/3.8.0...3.9.0) (2024-03-31)
+
+
+### Features
+
+* 🚀 remove @release-it/bumper plugin configuration from .release-it.json ([b67cd56](https://github.com/Ru1ers/release-it-test/commit/b67cd564cbdcc786a613e52bbcb030286c104905))
+
 ## [3.8.0](https://github.com/Ru1ers/release-it-test/compare/3.7.0...3.8.0) (2024-03-31)
 
 

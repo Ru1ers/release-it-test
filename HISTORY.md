@@ -5,6 +5,15 @@
 
 undefined
 
+- feat: 🚀 remove @release-it/bumper plugin configuration from .release-it.json by [@ztc](1608864756@qq.com) in [#b67cd56](https://github.com/Ru1ers/release-it-test/commit/b67cd564cbdcc786a613e52bbcb030286c104905)
+
+
+`2024-03-31`
+
+#### 新功能 🎉
+
+undefined
+
 - feat: 🚀 update npm versionArgs and bumper paths in .release-it.json by [@ztc](1608864756@qq.com) in [#278ce4a](https://github.com/Ru1ers/release-it-test/commit/278ce4acbc19d58bc2f9db9cdde801c2fd7e4931)
 - feat: 🚀 update release-it.json and package.json configurations by [@ztc](1608864756@qq.com) in [#cf4f3bb](https://github.com/Ru1ers/release-it-test/commit/cf4f3bb3fb5f17a61d68a945acb71852add55610)
 
