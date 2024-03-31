@@ -2,6 +2,7 @@
   "name": "release-it-test",
   "version": "3.6.3",
   "description": "",
+  "main": "src/test.js",
   "scripts": {
     "release": "release-it",
     "release-pre": "release-it --release-version",

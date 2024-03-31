@@ -9,6 +9,7 @@
   },
   "npm": {
     "publishPath": "./src/test",
+    "skipChecks": true,
     "versionArgs": ["--allow-same-version"]
   },
   "git": {
