@@ -3,6 +3,12 @@
 
 #### 新功能 🎉
 
+
+
+`2024-03-31`
+
+#### 新功能 🎉
+
 undefined
 
 - feat: 🚀 remove @release-it/conventional-changelog plugin from .release-it.json by [@ztc](1608864756@qq.com) in [#42cf484](https://github.com/Ru1ers/release-it-test/commit/42cf4844f3384168e4f0bad43b0ea0642fbb45b0)

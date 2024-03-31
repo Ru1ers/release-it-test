@@ -1,5 +1,7 @@
 
 
+## [3.9.2-alpha.0](https://github.com/Ru1ers/release-it-test/compare/3.9.1...3.9.2-alpha.0) (2024-03-31)
+
 ## [3.9.1](https://github.com/Ru1ers/release-it-test/compare/3.8.0...3.9.1) (2024-03-31)
 
 
