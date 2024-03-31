@@ -1,8 +1,5 @@
 {
-  "name": "release-it-test",
-  "version": "3.7.0",
-  "description": "",
-  "main": "src/test.js",
+  "private": true,
   "scripts": {
     "release": "release-it",
     "release-pre": "release-it --release-version",
