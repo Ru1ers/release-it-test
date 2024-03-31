@@ -8,8 +8,7 @@
     }
   },
   "npm": {
-    "publishPath": "./src/test",
-    "versionArgs": ["--allow-same-version"]
+    "publishPath": "./src/test"
   },
   "git": {
     "changelog": "npx auto-changelog --stdout --commit-limit false --unreleased --template ./templates/changelog-compact.hbs"
@@ -19,8 +18,8 @@
   },
   "plugins": {
     "@release-it/bumper": {
-      "in": "version.json",
-      "out": ["package.json", "src/test/package.json"]
+      "in": "src/test/package.json",
+      "out": ["src/test/package.json"]
     },
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOGAUTO.md",
