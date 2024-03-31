@@ -5,6 +5,8 @@
 
 undefined
 
+- feat: 🚀 remove @release-it/conventional-changelog plugin from .release-it.json by [@ztc](1608864756@qq.com) in [#42cf484](https://github.com/Ru1ers/release-it-test/commit/42cf4844f3384168e4f0bad43b0ea0642fbb45b0)
+- feat: 🚀 add conventional-changelog plugin to handle Conventional Commits by [@ztc](1608864756@qq.com) in [#06e3b1a](https://github.com/Ru1ers/release-it-test/commit/06e3b1af20a4eefe5921d0433c9b403cd3b411b3)
 - feat: 🚀 remove @release-it/bumper plugin configuration from .release-it.json by [@ztc](1608864756@qq.com) in [#b67cd56](https://github.com/Ru1ers/release-it-test/commit/b67cd564cbdcc786a613e52bbcb030286c104905)
 
 
