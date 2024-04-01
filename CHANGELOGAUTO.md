@@ -1,5 +1,17 @@
 
 
+## [3.10.0](https://github.com/Ru1ers/release-it-test/compare/3.9.2-alpha.0...3.10.0) (2024-04-01)
+
+
+### Features
+
+* 🚀 add "skipChecks" option to npm config for faster publishing ([dadecc1](https://github.com/Ru1ers/release-it-test/commit/dadecc10a02f82a4ebf6995337c1d0f89f0b9534))
+* 🚀 add name field for release-it-test-z in package.json ([160aac2](https://github.com/Ru1ers/release-it-test/commit/160aac202fa8e0b65b899ec78fbc19b4032656b3))
+* 🚀 remove "private" key from package.json and update release scripts ([6bcd541](https://github.com/Ru1ers/release-it-test/commit/6bcd5417c4a967fd44ffa00f4aa39ede80a3c424))
+* 🚀 remove redundant package names from package.json files ([b6d134c](https://github.com/Ru1ers/release-it-test/commit/b6d134c2e35b2d566b33e3610a30688cf3d068e5))
+* 🚀 update package.json name to "release-it-test" and set private to false ([cd546c6](https://github.com/Ru1ers/release-it-test/commit/cd546c6342628221765a8b2260ca283875a8189b))
+* 🚀 update package.json to set "private" to false ([814e906](https://github.com/Ru1ers/release-it-test/commit/814e906963de3db20e9c5591e4c6f5119009522d))
+
 ## [3.9.2-alpha.0](https://github.com/Ru1ers/release-it-test/compare/3.9.1...3.9.2-alpha.0) (2024-03-31)
 
 ## [3.9.1](https://github.com/Ru1ers/release-it-test/compare/3.8.0...3.9.1) (2024-03-31)
