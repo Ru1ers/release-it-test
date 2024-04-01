@@ -8,6 +8,7 @@
     }
   },
   "npm": {
+    "skipChecks": true,
     "publishPath": "./src/test"
   },
   "git": {
