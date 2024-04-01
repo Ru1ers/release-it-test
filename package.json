@@ -1,5 +1,4 @@
 {
-  "name": "release-it-test",
   "scripts": {
     "release": "release-it",
     "release-pre": "release-it --release-version",
